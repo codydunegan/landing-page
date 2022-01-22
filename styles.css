@@ -44,3 +44,46 @@ nav .links {
     display: flex;
     gap: 16px;
 }
+
+header {
+    padding: 1rem 10rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+}
+
+.hero {
+  max-width: 30vw;
+  margin-bottom: 1rem;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    color: #E5E7EB;
+}
+
+.signup {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    border: none;
+    background-color: #3882F6;
+    padding: .5rem 2rem;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.pcimg {
+    max-width: 50%;
+    padding: 10px;
+    background-color: #F9FAF8;
+}
