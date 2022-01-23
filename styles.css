@@ -113,3 +113,22 @@ header {
     padding: 10px;
     background-color: #1F2937;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 3rem 10rem;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.quote p {
+    font-size: 2rem;
+    font-weight: lighter;
+}
+
+.quote span {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
