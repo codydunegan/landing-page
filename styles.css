@@ -158,3 +158,11 @@ header {
 .action-text {
     color: white;
 }
+
+footer {
+    padding: 2rem 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
